@@ -1,0 +1,6 @@
+c:\users\tiny\documents\visual studio 2015\Projects\Chat\CommonType\bin\Debug\CommonType.exe.config
+c:\users\tiny\documents\visual studio 2015\Projects\Chat\CommonType\bin\Debug\CommonType.exe
+c:\users\tiny\documents\visual studio 2015\Projects\Chat\CommonType\bin\Debug\CommonType.pdb
+c:\users\tiny\documents\visual studio 2015\Projects\Chat\CommonType\obj\Debug\CommonType.exe
+c:\users\tiny\documents\visual studio 2015\Projects\Chat\CommonType\obj\Debug\CommonType.pdb
+c:\users\tiny\documents\visual studio 2015\Projects\Chat\CommonType\obj\Debug\CommonType.csprojResolveAssemblyReference.cache

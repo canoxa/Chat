@@ -1,0 +1,11 @@
+c:\users\tiny\documents\visual studio 2015\Projects\Chat\ChatClient\bin\Debug\ChatClient.exe.config
+c:\users\tiny\documents\visual studio 2015\Projects\Chat\ChatClient\bin\Debug\ChatClient.exe
+c:\users\tiny\documents\visual studio 2015\Projects\Chat\ChatClient\bin\Debug\ChatClient.pdb
+c:\users\tiny\documents\visual studio 2015\Projects\Chat\ChatClient\obj\Debug\ChatClient.csprojResolveAssemblyReference.cache
+c:\users\tiny\documents\visual studio 2015\Projects\Chat\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+c:\users\tiny\documents\visual studio 2015\Projects\Chat\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.Cache
+c:\users\tiny\documents\visual studio 2015\Projects\Chat\ChatClient\obj\Debug\ChatClient.exe
+c:\users\tiny\documents\visual studio 2015\Projects\Chat\ChatClient\obj\Debug\ChatClient.pdb
+c:\users\tiny\documents\visual studio 2015\Projects\Chat\ChatClient\bin\Debug\CommonType.exe
+c:\users\tiny\documents\visual studio 2015\Projects\Chat\ChatClient\bin\Debug\CommonType.pdb
+c:\users\tiny\documents\visual studio 2015\Projects\Chat\ChatClient\obj\Debug\Chat.Form1.resources

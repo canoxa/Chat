@@ -1,0 +1,8 @@
+c:\users\tiny\documents\visual studio 2015\Projects\Chat\ChatServer\bin\Debug\ChatServer.exe.config
+c:\users\tiny\documents\visual studio 2015\Projects\Chat\ChatServer\bin\Debug\ChatServer.exe
+c:\users\tiny\documents\visual studio 2015\Projects\Chat\ChatServer\bin\Debug\ChatServer.pdb
+c:\users\tiny\documents\visual studio 2015\Projects\Chat\ChatServer\obj\Debug\ChatServer.csprojResolveAssemblyReference.cache
+c:\users\tiny\documents\visual studio 2015\Projects\Chat\ChatServer\obj\Debug\ChatServer.exe
+c:\users\tiny\documents\visual studio 2015\Projects\Chat\ChatServer\obj\Debug\ChatServer.pdb
+c:\users\tiny\documents\visual studio 2015\Projects\Chat\ChatServer\bin\Debug\CommonType.exe
+c:\users\tiny\documents\visual studio 2015\Projects\Chat\ChatServer\bin\Debug\CommonType.pdb
